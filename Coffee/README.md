@@ -21,9 +21,9 @@ O dashboard apresenta uma análise completa sobre:
 
 ### 💡 Versão Final
 
-![image](https://github.com/user-attachments/assets/7a3bf998-9455-48da-a51d-55e9f8bc6146)
+![image](https://github.com/user-attachments/assets/eb3df9cb-66db-417f-9811-d3d4b133489c)
 
-![image](https://github.com/user-attachments/assets/192b1818-8392-4ad3-9642-1b2c8b8b96c6)
+![image](https://github.com/user-attachments/assets/f3e5cbee-668c-48cf-ad1d-eac5acb396f1)
 
 ---
 
