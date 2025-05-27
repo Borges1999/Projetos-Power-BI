@@ -23,7 +23,7 @@ O dashboard apresenta uma análise completa sobre:
 
 ![image](https://github.com/user-attachments/assets/eb3df9cb-66db-417f-9811-d3d4b133489c)
 
-![image](https://github.com/user-attachments/assets/876ad613-2e58-473a-b2ac-0aee55ce2e0c)
+![image](https://github.com/user-attachments/assets/082244ba-b099-4544-bcb0-e29a9e0bd4ef)
 
 ---
 
