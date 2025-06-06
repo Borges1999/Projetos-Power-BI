@@ -1,6 +1,6 @@
 # 🛒 Dashboard de Vendas e Correlação de Fatores Externos - Walmart (Power BI)
 
-Este projeto apresenta um dashboard interativo desenvolvido no **Power BI**, com base em dados públicos do Walmart, disponibilizados na plataforma **Kaggle**. O foco da análise é entender como fatores externos — como inflação, desemprego, temperatura e preço dos combustíveis — influenciam a **receita das lojas** ao longo do tempo.
+Este projeto apresenta dashboards interativos desenvolvidos no **Power BI**, com base em dados públicos do Walmart, disponibilizados na plataforma **Kaggle**. O foco da análise é entender como fatores externos — como inflação, desemprego, temperatura e preço dos combustíveis — influenciam a **receita das lojas** ao longo do tempo.
 
 ---
 
@@ -8,7 +8,7 @@ Este projeto apresenta um dashboard interativo desenvolvido no **Power BI**, com
 
 Os dashboards oferecem insights sobre:
 
-- **Receita mensal do Walmart**
+- **Receita do Walmart**
 - **Variação do CPI (Consumer Price Index)**
 - **Taxa média de desemprego**
 - **Preço médio de combustível**
