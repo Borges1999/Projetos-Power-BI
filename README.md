@@ -21,8 +21,11 @@ O principal objetivo é utilizar o **Power BI** como ferramenta de exploração 
 Todos os projetos seguem a estrutura abaixo:
 
 📁 ProjetoNome/
+
 ├── 📁 Database → Dados brutos utilizados na análise (CSV, Excel, etc.)
+
 ├── 📁 Layout → Arquivos visuais e de apoio (imagens, PowerPoint, etc.)
+
 └── 📁 PBIX → Arquivo .pbix (Power BI Desktop)
 
 ---
