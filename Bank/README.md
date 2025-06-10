@@ -20,13 +20,13 @@ O dashboard permite uma análise detalhada sobre:
 
 ---
 
-## 📈 Imagem do Dashboard
+## 📈 Imagens do Dashboard
 
 ### 💡 Versão Final
 
-![image](https://github.com/user-attachments/assets/7c8be62c-0ed4-48cf-88d0-ed6d9bd1acc2)
+![image](https://github.com/user-attachments/assets/ea0ba2b0-4ac8-4345-816b-2e225d65a619)
 
-![image](https://github.com/user-attachments/assets/5389370e-a8e2-433e-9aba-135697bc3ce2)
+![image](https://github.com/user-attachments/assets/ee576606-987a-4695-8dbf-321f3f1db35b)
 
 ---
 
