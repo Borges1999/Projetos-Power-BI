@@ -37,7 +37,7 @@ O dashboard apresenta uma análise completa sobre:
 ## 🛠 Tecnologias e Ferramentas
 
 - [Power BI Desktop (.pbix)](https://powerbi.microsoft.com/)
-- Dataset público do Walmart (Kaggle)
+- Dataset público (Kaggle)
 - Power Point para criação dos layouts
 - GitHub para versionamento e documentação
 
