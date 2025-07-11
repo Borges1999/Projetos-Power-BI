@@ -63,7 +63,7 @@ Este projeto consiste na construção de um **dashboard interativo** no Power BI
 
 ## 🧩 Dados Utilizados
 
-- **Fonte:** [https://www.preditiva.ai](https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset)
+- **Fonte:** [(https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset)](https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset)
 - Os dados foram tratados diretamente no Excel e Power BI.
 
 ---
