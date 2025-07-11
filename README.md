@@ -12,6 +12,7 @@ O principal objetivo é utilizar o **Power BI** como ferramenta de exploração 
 
 - **Dashboard de Vendas e Correlação de Fatores Externos - Walmart**
 - **Dashboard de Vendas de Cafés**
+- **Dashboard de Perfil de Clientes**
 - (Outros projetos serão adicionados futuramente)
 
 ---
