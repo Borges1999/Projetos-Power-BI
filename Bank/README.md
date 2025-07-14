@@ -26,7 +26,7 @@ O dashboard permite uma análise detalhada sobre:
 
 ![image](https://github.com/user-attachments/assets/ea0ba2b0-4ac8-4345-816b-2e225d65a619)
 
-![image](https://github.com/user-attachments/assets/ee576606-987a-4695-8dbf-321f3f1db35b)
+<img width="1430" height="801" alt="image" src="https://github.com/user-attachments/assets/b8871e82-59a2-4896-9198-c412f23fea87" />
 
 ---
 
