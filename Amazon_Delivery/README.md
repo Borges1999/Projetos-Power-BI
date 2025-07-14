@@ -48,7 +48,7 @@ Este projeto consiste na construção de um **dashboard interativo** no Power BI
 
 <img width="1245" height="677" alt="image" src="https://github.com/user-attachments/assets/8aeb9261-2a03-4ee8-9f3a-e0f0c4fb5e31" />
 
-<img width="1237" height="700" alt="image" src="https://github.com/user-attachments/assets/fe449b98-c79c-43e7-846d-4689e090591a" />
+<img width="1242" height="695" alt="image" src="https://github.com/user-attachments/assets/0be29054-bf93-4326-abfd-e1b315475b6f" />
 
 ## 🖼️ Estilo Visual
 
@@ -63,7 +63,7 @@ Este projeto consiste na construção de um **dashboard interativo** no Power BI
 
 ## 🧩 Dados Utilizados
 
-- **Fonte:** [https://www.preditiva.ai](https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset)
+- **Fonte:** [(https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset)](https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset)
 - Os dados foram tratados diretamente no Excel e Power BI.
 
 ---

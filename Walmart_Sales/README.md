@@ -25,7 +25,7 @@ Os dashboards oferecem insights sobre:
 
 ![image](https://github.com/user-attachments/assets/ac506509-f840-4be8-96e3-c95630dc2906)
 
-![image](https://github.com/user-attachments/assets/a6f40771-dafb-4c21-b0f9-b169d04b5bae)
+<img width="1276" height="713" alt="image" src="https://github.com/user-attachments/assets/656eed37-dcab-4fd8-b6ce-333423b81608" />
 
 
 ---
